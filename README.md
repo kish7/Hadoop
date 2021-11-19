@@ -30,4 +30,6 @@ Sorting the output
 
 Export the output file to the GCP bucket
 
+<img width="893" alt="image" src="https://user-images.githubusercontent.com/22275506/142533523-2956e333-5169-4d55-9537-d603aacb92c7.png">
+
 <img width="1187" alt="image" src="https://user-images.githubusercontent.com/22275506/142532814-dae7dec9-10df-4add-8def-b843a915bcc3.png">
