@@ -23,3 +23,11 @@ Viewing the output folder and merging the output files
 
 
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/22275506/142521131-db90d747-2956-460a-af27-3cbdfdb253b2.png">
+
+Sorting the output 
+
+<img width="435" alt="image" src="https://user-images.githubusercontent.com/22275506/142521354-22296c62-084c-4048-8a28-837cdde6505b.png">
+
+Export the output file to the GCP bucket
+
+<img width="1187" alt="image" src="https://user-images.githubusercontent.com/22275506/142532814-dae7dec9-10df-4add-8def-b843a915bcc3.png">
