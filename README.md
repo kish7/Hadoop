@@ -17,9 +17,9 @@ Run Map Reduce using hadoop streaming jar
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/142520793-034897fe-8088-4a31-9317-88ef368ed9bb.png">
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/142520828-28adbe7c-d8d7-4ded-bdea-5433c0585cf3.png">
 
-Viewing the output folder
+Viewing the output folder and merging the output files 
 
 <img width="638" alt="image" src="https://user-images.githubusercontent.com/22275506/142520894-2931a01a-5e08-40fd-a2d0-e4725d189691.png">
 
 
-
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/22275506/142521131-db90d747-2956-460a-af27-3cbdfdb253b2.png">
